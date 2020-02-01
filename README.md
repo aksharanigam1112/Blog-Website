@@ -1,2 +1,2 @@
 # Blog_site
-A Flask based Blod Website
+A Flask based Blogs Website
