@@ -6,7 +6,7 @@ A Flask based Blogs Website
 #### Create a virtual env and activate
 ```
 python3 -m venv virtual
-source ./virtual
+source ./virtual/bin/activate
 ```
 
 #### Clone the repo
