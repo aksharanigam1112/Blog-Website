@@ -1,0 +1,6 @@
+vir/
+*.pyc
+__pycache__
+migrations/
+.vscode/
+
