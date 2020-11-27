@@ -1,4 +1,4 @@
-vir/
+venv/
 *.pyc
 __pycache__
 migrations/
