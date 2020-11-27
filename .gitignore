@@ -3,4 +3,4 @@ venv/
 __pycache__
 migrations/
 .vscode/
-
+.pytest_cache/
