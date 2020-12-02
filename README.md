@@ -1,6 +1,5 @@
-# Papplu Pops
-A Blogging Website
-Hello world
+# Description
+A Blogging Website for people to express their thoughts and experiences on various topics, be it Coding, Politics or Travel.
 
 ## Installation Steps
 
